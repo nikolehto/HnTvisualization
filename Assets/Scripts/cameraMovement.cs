@@ -29,11 +29,6 @@ public class cameraMovement : MonoBehaviour
 
     void Update()
     {
-        Debug.Log("isRotating" + isRotating.ToString());
-        Debug.Log("isPanning" + isPanning.ToString());
-        Debug.Log("isZooming" + isZooming.ToString());
-
-
 
         if (cToMove && (!Input.GetKey(KeyCode.C)))
         {
