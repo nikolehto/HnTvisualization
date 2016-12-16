@@ -1,0 +1,3046 @@
+{
+  "id": 14,
+  "startTime": "2016-12-09T13:25:00",
+  "endTime": "2016-12-09T13:35:00",
+  "boundaries": [
+    {
+      "name": "lowerLeft",
+      "latitude": 65.00712,
+      "longitude": 25.452564
+    },
+    {
+      "name": "upperRight",
+      "latitude": 65.016268,
+      "longitude": 25.485402
+    }
+  ],
+  "playerCount": 3,
+  "players": [
+    {
+      "id": 29,
+      "name": "Pavel",
+      "totalScore": 679,
+      "scoreFromFakeLocation": 59,
+      "scoreFromTrueLocation": 620,
+      "scoreData": [
+        {
+          "id": 10764,
+          "point": 10,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:26:37.283"
+        },
+        {
+          "id": 10765,
+          "point": 10,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:26:32.487"
+        },
+        {
+          "id": 10766,
+          "point": 10,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:26:47.343"
+        },
+        {
+          "id": 10767,
+          "point": 10,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:26:47.573"
+        },
+        {
+          "id": 10768,
+          "point": 10,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:26:47.837"
+        },
+        {
+          "id": 10769,
+          "point": 10,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:26:47.637"
+        },
+        {
+          "id": 10770,
+          "point": 10,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:26:48.397"
+        },
+        {
+          "id": 10771,
+          "point": 10,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:26:51.977"
+        },
+        {
+          "id": 10772,
+          "point": 10,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:26:52.533"
+        },
+        {
+          "id": 10773,
+          "point": 10,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:26:52.567"
+        },
+        {
+          "id": 10774,
+          "point": 10,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:26:53.683"
+        },
+        {
+          "id": 10775,
+          "point": 10,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:26:58.48"
+        },
+        {
+          "id": 10776,
+          "point": 10,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:26:58.51"
+        },
+        {
+          "id": 10777,
+          "point": 10,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:26:56.967"
+        },
+        {
+          "id": 10778,
+          "point": 10,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:26:59.103"
+        },
+        {
+          "id": 10779,
+          "point": 10,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:27:02.84"
+        },
+        {
+          "id": 10780,
+          "point": 10,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:27:02.057"
+        },
+        {
+          "id": 10781,
+          "point": 10,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:27:03.103"
+        },
+        {
+          "id": 10782,
+          "point": 10,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:27:07.147"
+        },
+        {
+          "id": 10783,
+          "point": 10,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:27:09.767"
+        },
+        {
+          "id": 10784,
+          "point": 10,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:27:14.78"
+        },
+        {
+          "id": 10785,
+          "point": 10,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:27:15.733"
+        },
+        {
+          "id": 10786,
+          "point": 10,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:27:17.207"
+        },
+        {
+          "id": 10787,
+          "point": 10,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:27:16.913"
+        },
+        {
+          "id": 10788,
+          "point": 10,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:27:16.913"
+        },
+        {
+          "id": 10789,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:27:51.79"
+        },
+        {
+          "id": 10790,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:27:54.467"
+        },
+        {
+          "id": 10791,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:27:56.997"
+        },
+        {
+          "id": 10792,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:27:57.127"
+        },
+        {
+          "id": 10793,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:27:57.88"
+        },
+        {
+          "id": 10794,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:27:57.647"
+        },
+        {
+          "id": 10795,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:27:58.17"
+        },
+        {
+          "id": 10796,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:27:59.35"
+        },
+        {
+          "id": 10797,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:27:59.587"
+        },
+        {
+          "id": 10798,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:28:00.24"
+        },
+        {
+          "id": 10799,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:28:02.827"
+        },
+        {
+          "id": 10800,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:28:04.5"
+        },
+        {
+          "id": 10801,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:28:05.027"
+        },
+        {
+          "id": 10802,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:28:04.207"
+        },
+        {
+          "id": 10803,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:28:05.027"
+        },
+        {
+          "id": 10804,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:28:05.06"
+        },
+        {
+          "id": 10805,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:28:07.91"
+        },
+        {
+          "id": 10806,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:28:07.91"
+        },
+        {
+          "id": 10807,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:28:06.44"
+        },
+        {
+          "id": 10811,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:28:10.467"
+        },
+        {
+          "id": 10837,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:29:57.047"
+        },
+        {
+          "id": 10838,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:29:57.11"
+        },
+        {
+          "id": 10839,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:30:00.453"
+        },
+        {
+          "id": 10840,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:30:00.19"
+        },
+        {
+          "id": 10841,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:30:01.67"
+        },
+        {
+          "id": 10842,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:30:02.44"
+        },
+        {
+          "id": 10843,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:30:11.74"
+        },
+        {
+          "id": 10844,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:30:11.413"
+        },
+        {
+          "id": 10845,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:30:13.733"
+        },
+        {
+          "id": 10846,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:30:13.737"
+        },
+        {
+          "id": 10847,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:30:17.123"
+        },
+        {
+          "id": 10848,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:30:17.45"
+        },
+        {
+          "id": 10849,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:30:17.153"
+        },
+        {
+          "id": 10850,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:30:17.647"
+        },
+        {
+          "id": 10852,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:30:34.237"
+        },
+        {
+          "id": 10853,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:30:36.27"
+        },
+        {
+          "id": 10855,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:30:36.303"
+        },
+        {
+          "id": 10858,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:30:41.85"
+        },
+        {
+          "id": 10861,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:30:44.113"
+        },
+        {
+          "id": 10862,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:30:45.69"
+        },
+        {
+          "id": 10865,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:30:49.49"
+        },
+        {
+          "id": 10869,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:30:52.177"
+        },
+        {
+          "id": 10870,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:30:53.487"
+        },
+        {
+          "id": 10872,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:30:56.4"
+        },
+        {
+          "id": 10875,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:31:02.757"
+        },
+        {
+          "id": 10876,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:31:02.987"
+        },
+        {
+          "id": 10877,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:31:04.067"
+        },
+        {
+          "id": 10880,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:31:07.28"
+        },
+        {
+          "id": 10881,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:31:08.093"
+        },
+        {
+          "id": 10882,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:31:08.093"
+        },
+        {
+          "id": 10883,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:31:09.31"
+        },
+        {
+          "id": 10884,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:11.84"
+        },
+        {
+          "id": 10886,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:18.11"
+        },
+        {
+          "id": 10887,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:19.41"
+        },
+        {
+          "id": 10888,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:19.61"
+        },
+        {
+          "id": 10889,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:19.64"
+        },
+        {
+          "id": 10890,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:21.313"
+        },
+        {
+          "id": 10891,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:21.347"
+        },
+        {
+          "id": 10892,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:21.377"
+        },
+        {
+          "id": 10894,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:22.69"
+        },
+        {
+          "id": 10896,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:23.973"
+        },
+        {
+          "id": 10897,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:28.553"
+        },
+        {
+          "id": 10898,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:29.407"
+        },
+        {
+          "id": 10899,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:31.143"
+        },
+        {
+          "id": 10901,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:32.033"
+        },
+        {
+          "id": 10903,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:33.113"
+        },
+        {
+          "id": 10904,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:32.557"
+        },
+        {
+          "id": 10905,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:36.333"
+        },
+        {
+          "id": 10906,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:36.593"
+        },
+        {
+          "id": 10907,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:38.043"
+        },
+        {
+          "id": 10908,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:42.133"
+        },
+        {
+          "id": 10909,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:42.133"
+        },
+        {
+          "id": 10910,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:43.13"
+        },
+        {
+          "id": 10911,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:44.473"
+        },
+        {
+          "id": 10912,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:45.92"
+        },
+        {
+          "id": 10913,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:47.56"
+        },
+        {
+          "id": 10914,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:50.743"
+        },
+        {
+          "id": 10915,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:51.763"
+        },
+        {
+          "id": 10916,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:52.603"
+        },
+        {
+          "id": 10917,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:52.543"
+        },
+        {
+          "id": 10918,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:53.097"
+        },
+        {
+          "id": 10919,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:54.343"
+        },
+        {
+          "id": 10920,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:54.34"
+        },
+        {
+          "id": 10921,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:56.207"
+        },
+        {
+          "id": 10922,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:56.21"
+        },
+        {
+          "id": 10923,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:57.163"
+        },
+        {
+          "id": 10924,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:57.227"
+        },
+        {
+          "id": 10925,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:58.833"
+        },
+        {
+          "id": 10926,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:59.587"
+        },
+        {
+          "id": 10927,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:32:04.24"
+        },
+        {
+          "id": 10928,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:32:13.013"
+        },
+        {
+          "id": 10929,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:32:13.537"
+        },
+        {
+          "id": 10930,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:32:15.997"
+        },
+        {
+          "id": 10931,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:32:16.03"
+        },
+        {
+          "id": 10932,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:32:17.147"
+        },
+        {
+          "id": 10933,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:32:17.737"
+        }
+      ],
+      "playerMovement": [
+        {
+          "locationId": 20776,
+          "latitude": 65.0123138,
+          "longitude": 25.4711924,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:25:48"
+        },
+        {
+          "locationId": 20780,
+          "latitude": 65.0124199,
+          "longitude": 25.4712424,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:25:53"
+        },
+        {
+          "locationId": 20786,
+          "latitude": 65.0123779,
+          "longitude": 25.471198,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:25:58"
+        },
+        {
+          "locationId": 20801,
+          "latitude": 65.0118681207,
+          "longitude": 25.4702856391,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:03"
+        },
+        {
+          "locationId": 20800,
+          "latitude": 65.0123504,
+          "longitude": 25.4711689,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:03"
+        },
+        {
+          "locationId": 20805,
+          "latitude": 65.0113175958,
+          "longitude": 25.4721276462,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:03"
+        },
+        {
+          "locationId": 20804,
+          "latitude": 65.012207891,
+          "longitude": 25.4729547724,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:04"
+        },
+        {
+          "locationId": 20806,
+          "latitude": 65.0132288754,
+          "longitude": 25.469575189,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:07"
+        },
+        {
+          "locationId": 20808,
+          "latitude": 65.0126690312,
+          "longitude": 25.4717756062,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:05"
+        },
+        {
+          "locationId": 20810,
+          "latitude": 65.0139926408,
+          "longitude": 25.4705196619,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:07"
+        },
+        {
+          "locationId": 20817,
+          "latitude": 65.0123893172,
+          "longitude": 25.4682562127,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:09"
+        },
+        {
+          "locationId": 20816,
+          "latitude": 65.0137493373,
+          "longitude": 25.46746362,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:10"
+        },
+        {
+          "locationId": 20819,
+          "latitude": 65.0134261564,
+          "longitude": 25.4684171453,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:12"
+        },
+        {
+          "locationId": 20818,
+          "latitude": 65.0123276,
+          "longitude": 25.4711448,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:13"
+        },
+        {
+          "locationId": 20820,
+          "latitude": 65.0130196965,
+          "longitude": 25.4678726568,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:15"
+        },
+        {
+          "locationId": 20823,
+          "latitude": 65.0133372173,
+          "longitude": 25.466992557,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:15"
+        },
+        {
+          "locationId": 20822,
+          "latitude": 65.0138826022,
+          "longitude": 25.4690752923,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:16"
+        },
+        {
+          "locationId": 20825,
+          "latitude": 65.0134645361,
+          "longitude": 25.4722738265,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:08"
+        },
+        {
+          "locationId": 20829,
+          "latitude": 65.0120536,
+          "longitude": 25.4706017,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:39"
+        },
+        {
+          "locationId": 20831,
+          "latitude": 65.0119833,
+          "longitude": 25.4704503,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:49"
+        },
+        {
+          "locationId": 20834,
+          "latitude": 65.0119697,
+          "longitude": 25.4703758,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:59"
+        },
+        {
+          "locationId": 20835,
+          "latitude": 65.0119871,
+          "longitude": 25.47025,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:27:04"
+        },
+        {
+          "locationId": 20837,
+          "latitude": 65.0119743,
+          "longitude": 25.4700429,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:27:09"
+        },
+        {
+          "locationId": 20839,
+          "latitude": 65.0119679,
+          "longitude": 25.4699389,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:27:14"
+        },
+        {
+          "locationId": 20842,
+          "latitude": 65.0119926,
+          "longitude": 25.4697309,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:27:19"
+        },
+        {
+          "locationId": 20844,
+          "latitude": 65.0119926,
+          "longitude": 25.4696869,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:27:24"
+        },
+        {
+          "locationId": 20848,
+          "latitude": 65.0120065,
+          "longitude": 25.4695752,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:27:34"
+        },
+        {
+          "locationId": 20851,
+          "latitude": 65.0120692,
+          "longitude": 25.4693456,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:27:39"
+        },
+        {
+          "locationId": 20853,
+          "latitude": 65.0121079,
+          "longitude": 25.469075,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:27:44"
+        },
+        {
+          "locationId": 20855,
+          "latitude": 65.012181,
+          "longitude": 25.4688888,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:27:49"
+        },
+        {
+          "locationId": 20861,
+          "latitude": 65.0122964,
+          "longitude": 25.468597,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:28:14"
+        },
+        {
+          "locationId": 20863,
+          "latitude": 65.0123123,
+          "longitude": 25.4684757,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:19"
+        },
+        {
+          "locationId": 20873,
+          "latitude": 65.0126255,
+          "longitude": 25.468922,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:44"
+        },
+        {
+          "locationId": 20879,
+          "latitude": 65.0131971517,
+          "longitude": 25.4698048532,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:54"
+        },
+        {
+          "locationId": 20881,
+          "latitude": 65.0123357817,
+          "longitude": 25.4682786762,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:56"
+        },
+        {
+          "locationId": 20880,
+          "latitude": 65.012479959,
+          "longitude": 25.4700217768,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:56"
+        },
+        {
+          "locationId": 20882,
+          "latitude": 65.0118216657,
+          "longitude": 25.4699986428,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:57"
+        },
+        {
+          "locationId": 20883,
+          "latitude": 65.0126239939,
+          "longitude": 25.4709903895,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:58"
+        },
+        {
+          "locationId": 20884,
+          "latitude": 65.0127675,
+          "longitude": 25.4690338,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:59"
+        },
+        {
+          "locationId": 20886,
+          "latitude": 65.0134761492,
+          "longitude": 25.4725306481,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:59"
+        },
+        {
+          "locationId": 20887,
+          "latitude": 65.0138134914,
+          "longitude": 25.4705702885,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:00"
+        },
+        {
+          "locationId": 20890,
+          "latitude": 65.0141162745,
+          "longitude": 25.4714641347,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:03"
+        },
+        {
+          "locationId": 20888,
+          "latitude": 65.0127323383,
+          "longitude": 25.4743693023,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:01"
+        },
+        {
+          "locationId": 20891,
+          "latitude": 65.014008219,
+          "longitude": 25.4722158238,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:03"
+        },
+        {
+          "locationId": 20892,
+          "latitude": 65.0122792719,
+          "longitude": 25.4729168862,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:05"
+        },
+        {
+          "locationId": 20893,
+          "latitude": 65.011637403,
+          "longitude": 25.4720646142,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:06"
+        },
+        {
+          "locationId": 20894,
+          "latitude": 65.0113979021,
+          "longitude": 25.4714249074,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:08"
+        },
+        {
+          "locationId": 20895,
+          "latitude": 65.0128014,
+          "longitude": 25.4689592,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:09"
+        },
+        {
+          "locationId": 20896,
+          "latitude": 65.0127370119,
+          "longitude": 25.4672939702,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:10"
+        },
+        {
+          "locationId": 20901,
+          "latitude": 65.0115678616,
+          "longitude": 25.4686344042,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:11"
+        },
+        {
+          "locationId": 20904,
+          "latitude": 65.0137589675,
+          "longitude": 25.4699335992,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:13"
+        },
+        {
+          "locationId": 20905,
+          "latitude": 65.0127602386,
+          "longitude": 25.4723274707,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:16"
+        },
+        {
+          "locationId": 20906,
+          "latitude": 65.013644396,
+          "longitude": 25.4690890386,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:14"
+        },
+        {
+          "locationId": 20907,
+          "latitude": 65.0132219359,
+          "longitude": 25.471374616,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:15"
+        },
+        {
+          "locationId": 20908,
+          "latitude": 65.0129566734,
+          "longitude": 25.4690501466,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:13"
+        },
+        {
+          "locationId": 20909,
+          "latitude": 65.0130313,
+          "longitude": 25.4691976,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:19"
+        },
+        {
+          "locationId": 20919,
+          "latitude": 65.0131409,
+          "longitude": 25.4694165,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:34"
+        },
+        {
+          "locationId": 20923,
+          "latitude": 65.0131537,
+          "longitude": 25.4695645,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:44"
+        },
+        {
+          "locationId": 20927,
+          "latitude": 65.013131,
+          "longitude": 25.4699466,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:30:14"
+        },
+        {
+          "locationId": 20928,
+          "latitude": 65.0130401,
+          "longitude": 25.470079,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:30:24"
+        },
+        {
+          "locationId": 20933,
+          "latitude": 65.0130182,
+          "longitude": 25.4702694,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:30:34"
+        },
+        {
+          "locationId": 20936,
+          "latitude": 65.0128944,
+          "longitude": 25.470747,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:30:49"
+        },
+        {
+          "locationId": 20944,
+          "latitude": 65.0129301,
+          "longitude": 25.4717281,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:31:34"
+        },
+        {
+          "locationId": 20958,
+          "latitude": 65.0130702565,
+          "longitude": 25.4722329229,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:32:39"
+        },
+        {
+          "locationId": 20959,
+          "latitude": 65.0123961154,
+          "longitude": 25.4712535813,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:32:40"
+        },
+        {
+          "locationId": 20962,
+          "latitude": 65.012226586,
+          "longitude": 25.4730908945,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:32:41"
+        },
+        {
+          "locationId": 20961,
+          "latitude": 65.0130348503,
+          "longitude": 25.474807173,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:32:41"
+        },
+        {
+          "locationId": 20963,
+          "latitude": 65.0140389504,
+          "longitude": 25.4734657332,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:32:44"
+        },
+        {
+          "locationId": 20966,
+          "latitude": 65.0132274,
+          "longitude": 25.4726965,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:32:44"
+        },
+        {
+          "locationId": 20964,
+          "latitude": 65.0144646548,
+          "longitude": 25.4718054458,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:32:44"
+        },
+        {
+          "locationId": 20965,
+          "latitude": 65.013080595,
+          "longitude": 25.4697850719,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:32:47"
+        },
+        {
+          "locationId": 20967,
+          "latitude": 65.0138181649,
+          "longitude": 25.4711245,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:32:45"
+        },
+        {
+          "locationId": 20968,
+          "latitude": 65.0114804742,
+          "longitude": 25.4754941537,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:32:49"
+        },
+        {
+          "locationId": 20969,
+          "latitude": 65.0124109863,
+          "longitude": 25.4765573143,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:32:49"
+        },
+        {
+          "locationId": 20970,
+          "latitude": 65.0139787621,
+          "longitude": 25.4765003174,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:32:51"
+        },
+        {
+          "locationId": 20973,
+          "latitude": 65.0104516328,
+          "longitude": 25.471079573,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:32:57"
+        },
+        {
+          "locationId": 20971,
+          "latitude": 65.0117579316,
+          "longitude": 25.470460318,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:32:55"
+        },
+        {
+          "locationId": 20972,
+          "latitude": 65.0109523198,
+          "longitude": 25.469465889,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:32:57"
+        },
+        {
+          "locationId": 20974,
+          "latitude": 65.0129501586,
+          "longitude": 25.4737919569,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:33:00"
+        },
+        {
+          "locationId": 20975,
+          "latitude": 65.0131744,
+          "longitude": 25.4734793,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:32:59"
+        },
+        {
+          "locationId": 20976,
+          "latitude": 65.0122445729,
+          "longitude": 25.4753030464,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:32:59"
+        },
+        {
+          "locationId": 20977,
+          "latitude": 65.0113753824,
+          "longitude": 25.4737376421,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:33:02"
+        },
+        {
+          "locationId": 20980,
+          "latitude": 65.0130774,
+          "longitude": 25.4736828,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:33:14"
+        },
+        {
+          "locationId": 20991,
+          "latitude": 65.0136000684,
+          "longitude": 25.4754633083,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:34:47"
+        },
+        {
+          "locationId": 20992,
+          "latitude": 65.0130467468,
+          "longitude": 25.4774400964,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:34:47"
+        },
+        {
+          "locationId": 20994,
+          "latitude": 65.0135730187,
+          "longitude": 25.4788519442,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:34:46"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "rita",
+      "totalScore": 38,
+      "scoreFromFakeLocation": 8,
+      "scoreFromTrueLocation": 30,
+      "scoreData": [
+        {
+          "id": 10868,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:30:51.85"
+        },
+        {
+          "id": 10871,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:30:54.927"
+        },
+        {
+          "id": 10873,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:30:58.17"
+        },
+        {
+          "id": 10874,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:31:00.267"
+        },
+        {
+          "id": 10878,
+          "point": 1,
+          "spottedPlayerName": "viivi",
+          "spottedPlayerId": 32,
+          "timeStamp": "2016-12-09T13:31:05.897"
+        },
+        {
+          "id": 10879,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:31:06.717"
+        },
+        {
+          "id": 10885,
+          "point": 10,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:31:17.827"
+        },
+        {
+          "id": 10893,
+          "point": 10,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:31:21.083"
+        },
+        {
+          "id": 10895,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:31:24.857"
+        },
+        {
+          "id": 10900,
+          "point": 10,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:31:31.473"
+        },
+        {
+          "id": 10902,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:31:32.26"
+        }
+      ],
+      "playerMovement": [
+        {
+          "locationId": 20775,
+          "latitude": 65.0115528,
+          "longitude": 25.4725929,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:25:50"
+        },
+        {
+          "locationId": 20778,
+          "latitude": 65.0116666,
+          "longitude": 25.4725155,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:25:56"
+        },
+        {
+          "locationId": 20782,
+          "latitude": 65.0116666,
+          "longitude": 25.4725155,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:01"
+        },
+        {
+          "locationId": 20783,
+          "latitude": 65.0122598688,
+          "longitude": 25.4736977443,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:02"
+        },
+        {
+          "locationId": 20784,
+          "latitude": 65.0138283616,
+          "longitude": 25.4731894657,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:04"
+        },
+        {
+          "locationId": 20787,
+          "latitude": 65.0132161293,
+          "longitude": 25.4755786433,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:05"
+        },
+        {
+          "locationId": 20790,
+          "latitude": 65.0127541487,
+          "longitude": 25.477637574,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:05"
+        },
+        {
+          "locationId": 20791,
+          "latitude": 65.0116666,
+          "longitude": 25.4725155,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:06"
+        },
+        {
+          "locationId": 20793,
+          "latitude": 65.0113466307,
+          "longitude": 25.4783238843,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:07"
+        },
+        {
+          "locationId": 20794,
+          "latitude": 65.0099391802,
+          "longitude": 25.4728337377,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:07"
+        },
+        {
+          "locationId": 20795,
+          "latitude": 65.0099713327,
+          "longitude": 25.4701391234,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:08"
+        },
+        {
+          "locationId": 20796,
+          "latitude": 65.0108309377,
+          "longitude": 25.4674193635,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:08"
+        },
+        {
+          "locationId": 20798,
+          "latitude": 65.0102077304,
+          "longitude": 25.4768751561,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:07"
+        },
+        {
+          "locationId": 20802,
+          "latitude": 65.0136673386,
+          "longitude": 25.4692496359,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:10"
+        },
+        {
+          "locationId": 20807,
+          "latitude": 65.0084885943,
+          "longitude": 25.4714101552,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:12"
+        },
+        {
+          "locationId": 20809,
+          "latitude": 65.0088323737,
+          "longitude": 25.4772563651,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:13"
+        },
+        {
+          "locationId": 20813,
+          "latitude": 65.0116666,
+          "longitude": 25.4725155,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:16"
+        },
+        {
+          "locationId": 20814,
+          "latitude": 65.0133127165,
+          "longitude": 25.4785525426,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:16"
+        },
+        {
+          "locationId": 20826,
+          "latitude": 65.0119735,
+          "longitude": 25.4728182,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:26:29"
+        },
+        {
+          "locationId": 20827,
+          "latitude": 65.0119696,
+          "longitude": 25.4728398,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:26:46"
+        },
+        {
+          "locationId": 20830,
+          "latitude": 65.0120358,
+          "longitude": 25.4729379,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:26:54"
+        },
+        {
+          "locationId": 20833,
+          "latitude": 65.012083,
+          "longitude": 25.4732358,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:27:03"
+        },
+        {
+          "locationId": 20836,
+          "latitude": 65.0122242,
+          "longitude": 25.473101,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:27:13"
+        },
+        {
+          "locationId": 20838,
+          "latitude": 65.0123105,
+          "longitude": 25.4729872,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:27:18"
+        },
+        {
+          "locationId": 20840,
+          "latitude": 65.0124468,
+          "longitude": 25.4728525,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:27:23"
+        },
+        {
+          "locationId": 20843,
+          "latitude": 65.012475,
+          "longitude": 25.4727572,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:27:28"
+        },
+        {
+          "locationId": 20845,
+          "latitude": 65.0124703,
+          "longitude": 25.4726798,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:27:33"
+        },
+        {
+          "locationId": 20847,
+          "latitude": 65.0124982,
+          "longitude": 25.4725724,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:27:39"
+        },
+        {
+          "locationId": 20850,
+          "latitude": 65.0125672,
+          "longitude": 25.4724019,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:27:44"
+        },
+        {
+          "locationId": 20852,
+          "latitude": 65.0126553,
+          "longitude": 25.472237,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:27:49"
+        },
+        {
+          "locationId": 20854,
+          "latitude": 65.0127436,
+          "longitude": 25.4720887,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:27:54"
+        },
+        {
+          "locationId": 20856,
+          "latitude": 65.0127436,
+          "longitude": 25.4720887,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:27:58"
+        },
+        {
+          "locationId": 20859,
+          "latitude": 65.0125509,
+          "longitude": 25.4717812,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:04"
+        },
+        {
+          "locationId": 20860,
+          "latitude": 65.0123552,
+          "longitude": 25.4714748,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:19"
+        },
+        {
+          "locationId": 20864,
+          "latitude": 65.0122751,
+          "longitude": 25.4711617,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:29"
+        },
+        {
+          "locationId": 20865,
+          "latitude": 65.0094295507,
+          "longitude": 25.4726744815,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:33"
+        },
+        {
+          "locationId": 20866,
+          "latitude": 65.0112773718,
+          "longitude": 25.468946211,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:37"
+        },
+        {
+          "locationId": 20867,
+          "latitude": 65.0122927,
+          "longitude": 25.4710938,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:38"
+        },
+        {
+          "locationId": 20868,
+          "latitude": 65.0125272626,
+          "longitude": 25.4677248001,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:38"
+        },
+        {
+          "locationId": 20869,
+          "latitude": 65.0102900229,
+          "longitude": 25.4656460881,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:39"
+        },
+        {
+          "locationId": 20870,
+          "latitude": 65.0110055748,
+          "longitude": 25.4721387103,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:42"
+        },
+        {
+          "locationId": 20872,
+          "latitude": 65.0119022537,
+          "longitude": 25.4668245837,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:45"
+        },
+        {
+          "locationId": 20875,
+          "latitude": 65.0122988,
+          "longitude": 25.471292,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:50"
+        },
+        {
+          "locationId": 20874,
+          "latitude": 65.0119385111,
+          "longitude": 25.4648320376,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:47"
+        },
+        {
+          "locationId": 20878,
+          "latitude": 65.0109241343,
+          "longitude": 25.4743029177,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:44"
+        },
+        {
+          "locationId": 20877,
+          "latitude": 65.0135750014,
+          "longitude": 25.4737973213,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:46"
+        },
+        {
+          "locationId": 20885,
+          "latitude": 65.0123662,
+          "longitude": 25.4714138,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:57"
+        },
+        {
+          "locationId": 20900,
+          "latitude": 65.0123662,
+          "longitude": 25.4714138,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:08"
+        },
+        {
+          "locationId": 20897,
+          "latitude": 65.0096900324,
+          "longitude": 25.4678183421,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:09"
+        },
+        {
+          "locationId": 20899,
+          "latitude": 65.0102859154,
+          "longitude": 25.4735415056,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:10"
+        },
+        {
+          "locationId": 20902,
+          "latitude": 65.0120972785,
+          "longitude": 25.4769244417,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:10"
+        },
+        {
+          "locationId": 20903,
+          "latitude": 65.0130208295,
+          "longitude": 25.4668742045,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:11"
+        },
+        {
+          "locationId": 20910,
+          "latitude": 65.0123336,
+          "longitude": 25.4715924,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:18"
+        },
+        {
+          "locationId": 20917,
+          "latitude": 65.0124962,
+          "longitude": 25.4717946,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:33"
+        },
+        {
+          "locationId": 20922,
+          "latitude": 65.0124636,
+          "longitude": 25.4719732,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:43"
+        },
+        {
+          "locationId": 20924,
+          "latitude": 65.0123662,
+          "longitude": 25.4714138,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:54"
+        },
+        {
+          "locationId": 20926,
+          "latitude": 65.0122287,
+          "longitude": 25.4714564,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:30:07"
+        },
+        {
+          "locationId": 20931,
+          "latitude": 65.0122849,
+          "longitude": 25.4713126,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:30:22"
+        },
+        {
+          "locationId": 20929,
+          "latitude": 65.0116988713,
+          "longitude": 25.470313467,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:30:21"
+        },
+        {
+          "locationId": 20930,
+          "latitude": 65.0113181624,
+          "longitude": 25.4720196872,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:30:21"
+        },
+        {
+          "locationId": 20932,
+          "latitude": 65.0116010035,
+          "longitude": 25.4671394079,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:30:32"
+        },
+        {
+          "locationId": 20934,
+          "latitude": 65.0123336,
+          "longitude": 25.4715924,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:30:32"
+        },
+        {
+          "locationId": 20935,
+          "latitude": 65.0122606,
+          "longitude": 25.4711728,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:30:43"
+        },
+        {
+          "locationId": 20937,
+          "latitude": 65.0122606,
+          "longitude": 25.4711728,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:30:53"
+        },
+        {
+          "locationId": 20938,
+          "latitude": 65.0124231,
+          "longitude": 25.471375,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:31:05"
+        },
+        {
+          "locationId": 20941,
+          "latitude": 65.0123325,
+          "longitude": 25.4710561,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:31:16"
+        },
+        {
+          "locationId": 20943,
+          "latitude": 65.012036,
+          "longitude": 25.4706697,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:31:32"
+        },
+        {
+          "locationId": 20945,
+          "latitude": 65.0118861,
+          "longitude": 25.4705754,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:31:46"
+        },
+        {
+          "locationId": 20949,
+          "latitude": 65.0108067179,
+          "longitude": 25.4685663431,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:31:57"
+        },
+        {
+          "locationId": 20950,
+          "latitude": 65.0131059458,
+          "longitude": 25.4694142565,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:31:59"
+        },
+        {
+          "locationId": 20951,
+          "latitude": 65.0138524371,
+          "longitude": 25.4706574603,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:31:59"
+        },
+        {
+          "locationId": 20952,
+          "latitude": 65.0132373728,
+          "longitude": 25.4717735946,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:32:00"
+        },
+        {
+          "locationId": 20954,
+          "latitude": 65.0119414854,
+          "longitude": 25.4730027168,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:32:01"
+        },
+        {
+          "locationId": 20953,
+          "latitude": 65.0118379,
+          "longitude": 25.4701194,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:32:01"
+        },
+        {
+          "locationId": 20955,
+          "latitude": 65.0153214245,
+          "longitude": 25.4658680409,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:32:03"
+        },
+        {
+          "locationId": 20956,
+          "latitude": 65.0110933886,
+          "longitude": 25.4663907364,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:32:14"
+        },
+        {
+          "locationId": 20957,
+          "latitude": 65.0120685,
+          "longitude": 25.4698062,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:32:27"
+        },
+        {
+          "locationId": 20979,
+          "latitude": 65.0118001,
+          "longitude": 25.4704178,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:33:11"
+        },
+        {
+          "locationId": 20981,
+          "latitude": 65.0104282625,
+          "longitude": 25.4712063074,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:33:16"
+        },
+        {
+          "locationId": 20982,
+          "latitude": 65.0113149048,
+          "longitude": 25.4670639708,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:33:17"
+        },
+        {
+          "locationId": 20983,
+          "latitude": 65.0125815059,
+          "longitude": 25.4684919118,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:33:17"
+        },
+        {
+          "locationId": 20984,
+          "latitude": 65.0108082759,
+          "longitude": 25.468879491,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:33:16"
+        },
+        {
+          "locationId": 20985,
+          "latitude": 65.0136766856,
+          "longitude": 25.4708009585,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:33:18"
+        },
+        {
+          "locationId": 20987,
+          "latitude": 65.0137809187,
+          "longitude": 25.4672932997,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:33:19"
+        },
+        {
+          "locationId": 20988,
+          "latitude": 65.0124398784,
+          "longitude": 25.4662002995,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:33:20"
+        },
+        {
+          "locationId": 20989,
+          "latitude": 65.010540015,
+          "longitude": 25.4660417139,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:33:21"
+        },
+        {
+          "locationId": 20995,
+          "latitude": 65.0113309,
+          "longitude": 25.4720016,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:34:41"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "viivi",
+      "totalScore": 115,
+      "scoreFromFakeLocation": 35,
+      "scoreFromTrueLocation": 80,
+      "scoreData": [
+        {
+          "id": 10808,
+          "point": 10,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:10.177"
+        },
+        {
+          "id": 10809,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:10.997"
+        },
+        {
+          "id": 10810,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:10.96"
+        },
+        {
+          "id": 10812,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:11.777"
+        },
+        {
+          "id": 10813,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:12.103"
+        },
+        {
+          "id": 10814,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:12.073"
+        },
+        {
+          "id": 10815,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:12.927"
+        },
+        {
+          "id": 10816,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:15.81"
+        },
+        {
+          "id": 10817,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:16.24"
+        },
+        {
+          "id": 10818,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:16.27"
+        },
+        {
+          "id": 10819,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:19.713"
+        },
+        {
+          "id": 10820,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:19.513"
+        },
+        {
+          "id": 10821,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:21.913"
+        },
+        {
+          "id": 10822,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:20.363"
+        },
+        {
+          "id": 10823,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:21.947"
+        },
+        {
+          "id": 10824,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:24.503"
+        },
+        {
+          "id": 10825,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:25.623"
+        },
+        {
+          "id": 10826,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:26.507"
+        },
+        {
+          "id": 10827,
+          "point": 10,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:26.477"
+        },
+        {
+          "id": 10828,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:27.557"
+        },
+        {
+          "id": 10829,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:29.037"
+        },
+        {
+          "id": 10830,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:30.713"
+        },
+        {
+          "id": 10831,
+          "point": 10,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:30.12"
+        },
+        {
+          "id": 10832,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:35.117"
+        },
+        {
+          "id": 10833,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:41.847"
+        },
+        {
+          "id": 10834,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:41.847"
+        },
+        {
+          "id": 10835,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:42.997"
+        },
+        {
+          "id": 10836,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:28:44.903"
+        },
+        {
+          "id": 10851,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:30:30.427"
+        },
+        {
+          "id": 10854,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:30:36.273"
+        },
+        {
+          "id": 10856,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:30:36.763"
+        },
+        {
+          "id": 10857,
+          "point": 10,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:30:41.223"
+        },
+        {
+          "id": 10859,
+          "point": 10,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:30:42.373"
+        },
+        {
+          "id": 10860,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:30:43.783"
+        },
+        {
+          "id": 10863,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:30:45.717"
+        },
+        {
+          "id": 10864,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:30:45.913"
+        },
+        {
+          "id": 10866,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:30:49.49"
+        },
+        {
+          "id": 10867,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:30:49.783"
+        },
+        {
+          "id": 10934,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:33:42.987"
+        },
+        {
+          "id": 10935,
+          "point": 1,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:33:59.923"
+        },
+        {
+          "id": 10936,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:33:59.563"
+        },
+        {
+          "id": 10937,
+          "point": 10,
+          "spottedPlayerName": "rita",
+          "spottedPlayerId": 31,
+          "timeStamp": "2016-12-09T13:34:04.477"
+        },
+        {
+          "id": 10938,
+          "point": 10,
+          "spottedPlayerName": "Pavel",
+          "spottedPlayerId": 29,
+          "timeStamp": "2016-12-09T13:34:07.387"
+        }
+      ],
+      "playerMovement": [
+        {
+          "locationId": 20777,
+          "latitude": 65.0120091,
+          "longitude": 25.4689975,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:25:50"
+        },
+        {
+          "locationId": 20779,
+          "latitude": 65.0182604313,
+          "longitude": 25.4707965999,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:25:53"
+        },
+        {
+          "locationId": 20781,
+          "latitude": 65.0120091,
+          "longitude": 25.4689975,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:25:56"
+        },
+        {
+          "locationId": 20785,
+          "latitude": 65.0119875152,
+          "longitude": 25.4675745964,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:25:59"
+        },
+        {
+          "locationId": 20788,
+          "latitude": 65.0120091,
+          "longitude": 25.4689975,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:00"
+        },
+        {
+          "locationId": 20789,
+          "latitude": 65.0125752743,
+          "longitude": 25.4685599729,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:00"
+        },
+        {
+          "locationId": 20792,
+          "latitude": 65.0132135801,
+          "longitude": 25.4692228138,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:01"
+        },
+        {
+          "locationId": 20797,
+          "latitude": 65.0128944999,
+          "longitude": 25.4704016447,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:02"
+        },
+        {
+          "locationId": 20799,
+          "latitude": 65.0124118361,
+          "longitude": 25.4722892493,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:04"
+        },
+        {
+          "locationId": 20803,
+          "latitude": 65.0120091,
+          "longitude": 25.4689975,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:06"
+        },
+        {
+          "locationId": 20811,
+          "latitude": 65.0129208422,
+          "longitude": 25.4732947424,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:09"
+        },
+        {
+          "locationId": 20812,
+          "latitude": 65.0137848841,
+          "longitude": 25.4717015102,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:10"
+        },
+        {
+          "locationId": 20815,
+          "latitude": 65.0130648747,
+          "longitude": 25.4719318449,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:11"
+        },
+        {
+          "locationId": 20821,
+          "latitude": 65.0137370162,
+          "longitude": 25.4700553044,
+          "isFakeLocation": true,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:16"
+        },
+        {
+          "locationId": 20824,
+          "latitude": 65.0120091,
+          "longitude": 25.4689975,
+          "isFakeLocation": false,
+          "isMoving": false,
+          "timeStamp": "2016-12-09T13:26:16"
+        },
+        {
+          "locationId": 20828,
+          "latitude": 65.0120091,
+          "longitude": 25.4689975,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:26:40"
+        },
+        {
+          "locationId": 20832,
+          "latitude": 65.0120091,
+          "longitude": 25.4689975,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:26:50"
+        },
+        {
+          "locationId": 20841,
+          "latitude": 65.012123,
+          "longitude": 25.4689201,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:27:19"
+        },
+        {
+          "locationId": 20846,
+          "latitude": 65.0123825,
+          "longitude": 25.4689515,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:27:30"
+        },
+        {
+          "locationId": 20849,
+          "latitude": 65.012469,
+          "longitude": 25.4688652,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:27:36"
+        },
+        {
+          "locationId": 20857,
+          "latitude": 65.0130335,
+          "longitude": 25.4693954,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:27:57"
+        },
+        {
+          "locationId": 20858,
+          "latitude": 65.0129401032,
+          "longitude": 25.4723633453,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:27:59"
+        },
+        {
+          "locationId": 20862,
+          "latitude": 65.0129583,
+          "longitude": 25.4693019,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:20"
+        },
+        {
+          "locationId": 20871,
+          "latitude": 65.0128709,
+          "longitude": 25.4691932,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:36"
+        },
+        {
+          "locationId": 20876,
+          "latitude": 65.0128535,
+          "longitude": 25.4691715,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:28:46"
+        },
+        {
+          "locationId": 20889,
+          "latitude": 65.0127164,
+          "longitude": 25.4689522,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:02"
+        },
+        {
+          "locationId": 20898,
+          "latitude": 65.0126176,
+          "longitude": 25.4688575,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:12"
+        },
+        {
+          "locationId": 20912,
+          "latitude": 65.0138344513,
+          "longitude": 25.4713374003,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:31"
+        },
+        {
+          "locationId": 20911,
+          "latitude": 65.0129872644,
+          "longitude": 25.4703436419,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:31"
+        },
+        {
+          "locationId": 20913,
+          "latitude": 65.0140068028,
+          "longitude": 25.4705303907,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:32"
+        },
+        {
+          "locationId": 20914,
+          "latitude": 65.0135652295,
+          "longitude": 25.4700375348,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:32"
+        },
+        {
+          "locationId": 20915,
+          "latitude": 65.0136541679,
+          "longitude": 25.4679266363,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:34"
+        },
+        {
+          "locationId": 20916,
+          "latitude": 65.0129576647,
+          "longitude": 25.4662106931,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:35"
+        },
+        {
+          "locationId": 20918,
+          "latitude": 65.0144152304,
+          "longitude": 25.4688439518,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:36"
+        },
+        {
+          "locationId": 20920,
+          "latitude": 65.0119175498,
+          "longitude": 25.4703017324,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:40"
+        },
+        {
+          "locationId": 20921,
+          "latitude": 65.0131239321,
+          "longitude": 25.4722808673,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:39"
+        },
+        {
+          "locationId": 20925,
+          "latitude": 65.0124322,
+          "longitude": 25.467771,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:29:59"
+        },
+        {
+          "locationId": 20939,
+          "latitude": 65.0123997,
+          "longitude": 25.4679496,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:31:07"
+        },
+        {
+          "locationId": 20940,
+          "latitude": 65.0124587,
+          "longitude": 25.4682886,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:31:17"
+        },
+        {
+          "locationId": 20942,
+          "latitude": 65.0126637,
+          "longitude": 25.4687864,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:31:28"
+        },
+        {
+          "locationId": 20946,
+          "latitude": 65.0115449171,
+          "longitude": 25.4719968885,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:31:51"
+        },
+        {
+          "locationId": 20947,
+          "latitude": 65.0107723002,
+          "longitude": 25.4719150811,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:31:57"
+        },
+        {
+          "locationId": 20948,
+          "latitude": 65.0110789418,
+          "longitude": 25.4736276715,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:31:58"
+        },
+        {
+          "locationId": 20960,
+          "latitude": 65.0131936,
+          "longitude": 25.4694224,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:32:41"
+        },
+        {
+          "locationId": 20978,
+          "latitude": 65.0131845,
+          "longitude": 25.4693878,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:33:06"
+        },
+        {
+          "locationId": 20986,
+          "latitude": 65.0131956,
+          "longitude": 25.4694159,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:33:21"
+        },
+        {
+          "locationId": 20990,
+          "latitude": 65.0131815,
+          "longitude": 25.4693782,
+          "isFakeLocation": false,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:33:36"
+        },
+        {
+          "locationId": 20993,
+          "latitude": 65.0120397768,
+          "longitude": 25.4705132916,
+          "isFakeLocation": true,
+          "isMoving": true,
+          "timeStamp": "2016-12-09T13:34:57"
+        }
+      ]
+    }
+  ]
+}
